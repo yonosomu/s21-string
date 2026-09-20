@@ -1,0 +1,13 @@
+# Build outputs
+*.o
+*.a
+*.gcda
+*.gcno
+.build/
+report/
+.tmp-check/
+
+# Operating system and editor files
+.DS_Store
+*.swp
+*~
