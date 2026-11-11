@@ -1,5 +1,11 @@
 # s21_string+
 
+<!-- tech-stack-badges -->
+<p align="center">
+![C](https://img.shields.io/badge/C-C11-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Make](https://img.shields.io/badge/Make-Build-427819?style=for-the-badge&logo=gnu&logoColor=white) ![Check](https://img.shields.io/badge/Check-Tests-4B5563?style=for-the-badge) ![gcovr](https://img.shields.io/badge/gcovr-Coverage-2563EB?style=for-the-badge)
+</p>
+<!-- /tech-stack-badges -->
+
 A C11 implementation of common `string.h` and `sprintf` functionality. This
 School 21 curriculum project is presented as a portfolio project: the library
 is implemented from scratch and tested against the standard-library behaviour.
