@@ -2,7 +2,10 @@
 
 <!-- tech-stack-badges -->
 <p align="center">
-![C](https://img.shields.io/badge/C-C11-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Make](https://img.shields.io/badge/Make-Build-427819?style=for-the-badge&logo=gnu&logoColor=white) ![Check](https://img.shields.io/badge/Check-Tests-4B5563?style=for-the-badge) ![gcovr](https://img.shields.io/badge/gcovr-Coverage-2563EB?style=for-the-badge)
+<img alt="C" src="https://img.shields.io/badge/C-C11-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=white" />
+<img alt="Make" src="https://img.shields.io/badge/Make-Build-427819?style=for-the-badge&amp;logo=gnu&amp;logoColor=white" />
+<img alt="Check" src="https://img.shields.io/badge/Check-Tests-4B5563?style=for-the-badge" />
+<img alt="gcovr" src="https://img.shields.io/badge/gcovr-Coverage-2563EB?style=for-the-badge" />
 </p>
 <!-- /tech-stack-badges -->
 
